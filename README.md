@@ -1,8 +1,5 @@
 # Iris Flower Classification with Deep Neural Network (Keras)
 
-This project focuses on classifying the famous [Iris Flower Dataset](#) using modern machine learning practices. I explored multiple architectures and techniques to handle model randomness, monitor training, and improve performance. I also compared traditional logistic regression with deep learning models.
-
----
 
 ##  Dataset
 
